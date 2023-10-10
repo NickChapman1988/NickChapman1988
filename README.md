@@ -95,6 +95,21 @@ When I'm not coding, I try to spend as much time as I can with the other things 
 
 ### Milestone Projects for Code Institute Diploma
 
+**Overall Diploma Grade:** 
+[Pass](https://www.linkedin.com/in/nick-chapman-253b3b174/overlay/1635483048503/single-media-viewer/?profileId=ACoAACl1gp8BfI_Tv3Yymlwv62WNST8LIx4cgEw)
+
+<details>
+<summary>View a summary of my Milestone Projects here</summary>
+
+| Milestone No.   | Project | Description | Grade | 
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| 1 | <p><a href="https://github.com/NickChapman1988/SleepingDragonTerrain"><img src="https://github.com/NickChapman1988/SleepingDragonTerrain/blob/master/assets/images/amiresponsive.jpg"></a></p><p>Sleeping Dragon Terrain</p> | <p>A website created for a specialist commission service, based on my experience creating dioramas and scenery for wargaming. Created using HTML, CSS and Bootstrap. | Pass |
+| 2 | <p><a href="https://github.com/NickChapman1988/FeelingHungry"><img src="https://github.com/NickChapman1988/FeelingHungry/blob/master/assets/images/amiresponsive.jpg"></a></p><p>Feeling Hungry</p> | <p>A recipe search app! Created with HTML, CSS, JavaScript & jQuery. Utilises the EmailJS and Spoonacular APIs | Pass |
+| 3 | <p><a href="https://github.com/NickChapman1988/game-shelf"><img src="https://github.com/NickChapman1988/game-shelf/blob/main/static/images/home-screenshot.png"></a></p><p>Game Shelf</p> | <p>A board game review library and review site. Created with HTML, CSS, Materialize, JavaScript, Python, Flask and mongoDB.</p> | Pass |
+| 4 | <p><a href="https://github.com/NickChapman1988/sleeping-dragon-hobby-shop"><img src="https://github.com/NickChapman1988/sleeping-dragon-hobby-shop/blob/main/media/testing/sleeping-dragon.png"></a></p><p>Sleeping Dragon Hobby Shop</p> | <p>The Sleeping Dragon Hobby Shop - selling all your scenics modelling and hobby supply needs! A full-stack e-commerce site built with Django and Stripe payments. This site utilises HTML, CSS, JavaScript, Python. Uses both SQLite and postgreSQL relational databases and Amazon AWS S3.</p> | Pass |
+
+</details>
+
 ### Hackathon Projects
 
 
