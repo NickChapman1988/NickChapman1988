@@ -115,7 +115,7 @@ When I'm not coding, I try to spend as much time as I can with the other things 
 <a href="https://eu.badgr.com/public/assertions/IiGTRHn_QyiJsetLpNMdfQ"><img width="120px" height="120px"  src="https://api.eu.badgr.io/public/assertions/IiGTRHn_QyiJsetLpNMdfQ/image"></a>
 
 <details>
-<summary>Click here to view a summary of my Hackatho Projects</summary>
+<summary>Click here to view a summary of my Hackathon Projects</summary>
   
 
 | Date, Theme & Organiser   | Hackathon Project | Place |
