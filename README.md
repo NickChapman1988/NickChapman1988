@@ -1,3 +1,5 @@
+![Banner Image for Nick Chapman GitHub Profile](nick-chapman-profile-banner.png)
+
 # Nick Chapman
 ## Full Stack Software Developer
 
