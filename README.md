@@ -131,3 +131,7 @@ When I'm not coding, I try to spend as much time as I can with the other things 
 
 ### Stats
 
+![Nick's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NickChapman1988)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickChapman1988)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=NickChapman1988)
