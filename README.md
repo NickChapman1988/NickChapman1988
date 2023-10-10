@@ -126,6 +126,7 @@ When I'm not coding, I try to spend as much time as I can with the other things 
 
 ### Other Certifications
 
+<a href="https://skillsoft.digitalbadges-eu.skillsoft.com/a3dee89a-b9f5-4469-b972-3900ab088eca"><img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/4736166"></a>
 
 ### Stats
 
