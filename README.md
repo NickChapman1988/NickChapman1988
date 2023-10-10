@@ -112,6 +112,17 @@ When I'm not coding, I try to spend as much time as I can with the other things 
 
 ### Hackathon Projects
 
+<a href="https://eu.badgr.com/public/assertions/IiGTRHn_QyiJsetLpNMdfQ"><img width="120px" height="120px"  src="https://api.eu.badgr.io/public/assertions/IiGTRHn_QyiJsetLpNMdfQ/image"></a>
+
+<details>
+<summary>Click here to view a summary of my Hackatho Projects</summary>
+  
+
+| Date, Theme & Organiser   | Hackathon Project | Place |
+| :--------: | :-----------: | :--------------: |
+| <p>January 2022:</p><p>Accelerating the future of workforce well-being and mindfulness.</p><p>Organised by the Code Institute & Soda social.</p> | <p><a href="https://github.com/NickChapman1988/hackathon_team_4"><img src="Screenshot 2023-10-09 131936.png" /></a></p><p>My Mind's Eye</p> | <a href="https://eu.badgr.com/public/assertions/IiGTRHn_QyiJsetLpNMdfQ"><img  src="https://eu.badgr.com/public/assertions/IiGTRHn_QyiJsetLpNMdfQ/image"></a> |
+
+</details>
 
 ### Other Certifications
 
