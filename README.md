@@ -1,16 +1,63 @@
-### Hi there 👋
+# Nick Chapman
+## Full Stack Software Developer
 
-<!--
-**NickChapman1988/NickChapman1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contact Me
+
+
+### My Tech Stack
+#### Currently Learning
+
+
+
+#### Designs & Wireframes
+
+
+
+#### Programming Languages
+
+
+#### Libraries & Frameworks
+
+
+
+#### Databases
+
+
+
+
+#### Hosting
+
+
+
+ 
+#### Version Control, IDE's & Other Coding Content
+
+
+
+**Personal Setup**
+
+
+
+**Work Setup**
+
+
+
+
+#### Future Learning Plans
+
+
+
+### Milestone Projects for Code Institute Diploma
+
+### Hackathon Projects
+
+
+### Other Certifications
+
+
+### Stats
+
