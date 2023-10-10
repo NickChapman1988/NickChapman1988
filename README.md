@@ -13,6 +13,7 @@ When I'm not coding, I try to spend as much time as I can with the other things 
 
 ### Contact Me
 
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/nick-chapman-253b3b174/)
 
 ### My Tech Stack
 #### Currently Learning
